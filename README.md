@@ -13,7 +13,7 @@ On utlise les deux modèles et on choisis à la fin le meilleur pour faire notre
 
 L'architecture du RESNET se présente comme suit :
 
-![RESNET](RESNET.PNG)
+![RESNET](RESNET.png)
 
 Tous ce que nous avons à faire est de spécifier le modèle (dejà entrainé sur des millions d'images) à notre problème de classification. En d'autres termes dans le jargon "**data scientist**" : faire du [**transfert learning**](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
 
