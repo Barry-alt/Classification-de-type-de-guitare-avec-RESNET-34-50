@@ -8,7 +8,7 @@ Brièvement, le principe de la classification d'images par deep learning consist
 d'apprenstissage appelé **Training set**, puis de valider le modele sur un  ensemble de validation ou **development set** et tester la performance du modèle sur un troisième jeu de données
 appélé **Test set**.
 
-Les modèle pré-entrainés que nous utilisons sont le **RESNET34** (34 couches cachées) et **RESNET50**, l'un des plus célèbre dédié à la classification d'images developpé par des chercheurs asiatiques en 2016 [lien de l'article](https://arxiv.org/pdf/1512.03385.pdf).
+Les modèle pré-entrainés que nous utilisons sont le **RESNET34** (34 couches cachées) et **RESNET50**, l'un des plus célèbres modèles dédiés à la classification d'images developpé par des chercheurs asiatiques en 2016 ([lien de l'article](https://arxiv.org/pdf/1512.03385.pdf)).
 On utlise les deux modèles et on choisis à la fin le meilleur pour faire notre prédiction.
 
 L'architecture du modèle **RESNET** se présente comme suit :
@@ -17,7 +17,11 @@ L'architecture du modèle **RESNET** se présente comme suit :
 
 Tous ce que nous avons à faire est de spécifier le modèle (dejà entrainé sur des millions d'images) à notre problème de classification. En d'autres termes dans le jargon "**data scientist**" : faire du [**transfert learning**](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
 
-Voilà voila... ! 
+
+**Concepts : tuning des hyperparametres, choix du meilleur modèle, interpretation  de la matrice de confusion...**
+
+
+RES...NET... ! 
 
 
 
