@@ -21,7 +21,7 @@ Tous ce que nous avons à faire est de spécifier le modèle (dejà entrainé su
 **Concepts : tuning des hyperparametres, choix du meilleur modèle, interpretation  de la matrice de confusion...**
 
 
-RES...NET... ! 
+RES...NET... ultra-puissants ! 
 
 
 
