@@ -11,7 +11,7 @@ appélé **Test set**.
 Les modèle pré-entrainés que nous utilisons sont le **RESNET34** (34 couches cachées) et **RESNET50**, l'un des plus célèbre dédié à la classification d'images developpé par des chercheurs asiatiques en 2016 [lien de l'article](https://arxiv.org/pdf/1512.03385.pdf).
 On utlise les deux modèles et on choisis à la fin le meilleur pour faire notre prédiction.
 
-L'architecture du RESNET se présente comme suit :
+L'architecture du modèle **RESNET** se présente comme suit :
 
 ![RESNET](RESNET.png)
 
