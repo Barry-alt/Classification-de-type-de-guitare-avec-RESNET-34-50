@@ -18,7 +18,7 @@ L'architecture du modèle **RESNET** se présente comme suit :
 Tous ce que nous avons à faire est de spécifier le modèle (dejà entrainé sur des millions d'images) à notre problème de classification. En d'autres termes dans le jargon "**data scientist**" : faire du [**transfert learning**](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
 
 
-**Concepts : tuning hyperparametres, choix de meilleur modèle, interpretation matrice de confusion...**
+**Concepts : tuning des hyperparametres, choix du meilleur modèle, interpretation  de la matrice de confusion...**
 
 
 RES...NET... ! 
