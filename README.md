@@ -1,4 +1,4 @@
-# Classification de type de guitare
+# Classification binaire de deux types de guitare
 Classification binaire de guitare à l'aide du modèle pré-entrainé RESNET 34&amp;50.
 
 Dans ce mini projet, nous utilisons les outils suivants : **Google Drive, Colab, Pytorch, RESNET34 et fast.ai** pour classifier des images de guitares à l'aide 
