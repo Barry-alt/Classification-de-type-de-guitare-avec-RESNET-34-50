@@ -4,7 +4,7 @@ Classification binaire de guitare à l'aide du modèle pré-entrainé RESNET 34&
 Dans ce mini projet, nous utilisons les outils suivants : **Google Drive, Colab, Pytorch, RESNET34 et fast.ai** pour classifier des images de guitares à l'aide 
 d'un modèle **CNN**.
 
-Brièvement, le principe de la classification d'images par deep learning consiste à extraire et apprendre les caracteristiques des images d'un ensemble
+Brièvement, le principe de la classification d'images consiste à extraire et apprendre les caracteristiques des images d'un ensemble
 d'apprenstissage appelé **Training set**, puis de valider le modele sur un  ensemble de validation ou **development set** et tester la performance du modèle sur un troisième jeu de données
 appélé **Test set**.
 
